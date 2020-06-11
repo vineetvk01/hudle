@@ -1,0 +1,37 @@
+[{
+  "user" : {
+    "id" : 1,
+    "first_name":"Vineet",
+    "last_name":"Srivastav",
+    "email" : "vineetvk01@gmail.com",
+    "password": "test@123",
+    "gender" : "male",
+    "is_active": true,
+    "profile_image": "",
+    "created_at": "",
+    "last_logged_in": ""
+  },
+  "candidate" :{
+    "id": 1,
+    "job_profile": "developer"
+  },
+  "skills": [1,4,5,6,7]
+},{
+  "user" : {
+    "id" : 2,
+    "first_name":"Varun",
+    "last_name":"Srivastav",
+    "email" : "varun@gmail.com",
+    "password": "test@123",
+    "gender" : "male",
+    "is_active": true,
+    "profile_image": "",
+    "created_at": "",
+    "last_logged_in": ""
+  },
+  "candidate" :{
+    "id": 2,
+    "job_profile": "lawyer"
+  },
+  "skills": [1,4,5,6,7]
+}]

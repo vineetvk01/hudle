@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Full Stack developer MERN",
+    "location": "Delhi",
+    "job_profile": "developer",
+    "job_description": "",
+    "is_active": true,
+    "managed_by": 1,
+    "posted_on": "",
+    "skills": [1,2,3,4,5]
+  },
+  {
+    "id": 2,
+    "title": "Java developer Spring Boot",
+    "location": "Delhi",
+    "job_profile": "developer",
+    "job_description": "",
+    "is_active": true,
+    "managed_by": 1,
+    "posted_on": "",
+    "skills": [1,2,3,4,5]
+  },
+  {
+    "id": 3,
+    "title": "Junior Company Lawyer",
+    "location": "Delhi",
+    "job_profile": "lawyer",
+    "job_description": "",
+    "is_active": true,
+    "managed_by": 2,
+    "posted_on": "",
+    "skills": [1,2,3,4,5]
+  },
+  {
+    "id": 4,
+    "title": "Senior Company Lawyer",
+    "location": "Delhi",
+    "job_profile": "lawyer",
+    "job_description": "",
+    "is_active": true,
+    "managed_by": 2,
+    "posted_on": "",
+    "skills": [1,2,3,4,5]
+  },
+  {
+    "id": 5,
+    "title": "Junior Tester",
+    "location": "Delhi",
+    "job_profile": "test",
+    "job_description": "",
+    "is_active": true,
+    "managed_by": 1,
+    "posted_on": "",
+    "skills": [1,2,3,4,5]
+  },
+  {
+    "id": 6,
+    "title": "Software Developer",
+    "location": "Bangalore",
+    "job_profile": "developer",
+    "job_description": "",
+    "is_active": true,
+    "managed_by": 2,
+    "posted_on": "",
+    "skills": [1,2,3,4,5]
+  }
+]

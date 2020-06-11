@@ -1,0 +1,55 @@
+[{
+  "id": 1,
+  "name": "Tata Steel",
+  "industry": "Manufacture",
+  "website": "tata.com",
+  "image_url": ""
+},{
+  "id": 2,
+  "name": "Cognizant",
+  "industry": "Software",
+  "website": "cognizant.com",
+  "image_url": ""
+},{
+  "id": 3,
+  "name": "Zoho",
+  "industry": "Software",
+  "website": "zoho.com",
+  "image_url": ""
+},{
+  "id": 4,
+  "name": "Pesto",
+  "industry": "Education",
+  "website": "pesto.com",
+  "image_url": ""
+},{
+  "id": 5,
+  "name": "Hudle",
+  "industry": "Sports",
+  "website": "hudle.com",
+  "image_url": ""
+},{
+  "id": 6,
+  "name": "Google",
+  "industry": "Software",
+  "website": "google.com",
+  "image_url": ""
+},{
+  "id": 7,
+  "name": "AIIMS",
+  "industry": "Health",
+  "website": "aiims.com",
+  "image_url": ""
+},{
+  "id": 8,
+  "name": "T-Series",
+  "industry": "Music",
+  "website": "tseries.com",
+  "image_url": ""
+},{
+  "id": 9,
+  "name": "LawIndia",
+  "industry": "Law",
+  "website": "lawic.com",
+  "image_url": ""
+}]

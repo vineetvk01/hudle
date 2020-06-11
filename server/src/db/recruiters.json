@@ -1,0 +1,38 @@
+[
+  {
+    "user" : {
+      "id" : 3,
+      "first_name":"John",
+      "last_name":"Wick",
+      "email" : "john@gmail.com",
+      "password": "test@123",
+      "gender" : "male",
+      "is_active": true,
+      "profile_image": "",
+      "created_at": "",
+      "last_logged_in": ""
+    },
+    "recruiter" :{
+      "id": 1,
+      "company_id": 1
+    }
+  },
+  {
+    "user" : {
+      "id" : 4,
+      "first_name":"Jessica",
+      "last_name":"Madan",
+      "email" : "jess@gmail.com",
+      "password": "test@123",
+      "gender" : "female",
+      "is_active": true,
+      "profile_image": "",
+      "created_at": "",
+      "last_logged_in": ""
+    },
+    "recruiter" :{
+      "id": 2,
+      "company_id": 2
+    }
+  }
+]
